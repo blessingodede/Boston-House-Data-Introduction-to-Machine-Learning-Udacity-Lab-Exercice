@@ -8,6 +8,18 @@ In order to gain a better understanding of the metrics used in regression settin
 
 First use the cell below to read in the dataset and set up the training and testing data that will be used for the rest of this problem.
 
+### Installation
+
+This project requires Python 3.7 and the following Python libraries installed:
+
+- [Pandas](https://pandas.pydata.org/)
+- [Numpy](https://numpy.org/)
+- [scikit-learn](https://scikit-learn.org/stable/)
+- [matplotlib](https://matplotlib.org/)
+
+You are also required to have software installed to run and execute a [Jupyter Notebook](https://jupyter.org/).
+We recommend you install [Anaconda] (https://www.anaconda.com/distribution/), a pre-packaged Python distribution that contains all of the necessary software and libraries for this project.
+
 ### Code
 
 Template code is provided in Regression_Metrics.ipynb notebook file and it is divided into ten (10) steps. 
@@ -31,7 +43,6 @@ Template code is provided in Regression_Metrics.ipynb notebook file and it is di
 - `Step 9`: Now one last time - complete the function related to mean absolute error. Then check your function against the sklearn metric to assure they match.
 
 - `Step 10`: Which model performed the best in terms of each of the metrics? Note that r2 and mse will always match, but the mae may give a different best model. Use the dictionary and space below to match the best model via each metric.
-
 
 
 
