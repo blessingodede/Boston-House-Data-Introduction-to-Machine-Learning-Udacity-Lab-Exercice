@@ -44,6 +44,16 @@ Template code is provided in Regression_Metrics.ipynb notebook file and it is di
 
 - `Step 10`: Which model performed the best in terms of each of the metrics? Note that r2 and mse will always match, but the mae may give a different best model. Use the dictionary and space below to match the best model via each metric.
 
+### Run
+
+In a terminal or command window, navigate to the top-level project directory finding_donors/ (that contains this README) and run one of the following commands:
 
 
-
+```bash
+ipython notebook finding_donors.ipynb
+```  
+or
+```bash
+jupyter notebook finding_donors.ipynb
+```
+This will open the iPython Notebook software and project file in your browser.
