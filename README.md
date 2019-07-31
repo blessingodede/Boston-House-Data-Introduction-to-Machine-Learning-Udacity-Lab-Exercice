@@ -10,6 +10,8 @@ First use the cell below to read in the dataset and set up the training and test
 
 ### Code
 
+Template code is provided in Regression_Metrics.ipynb notebook file and it is divided into ten (10) steps. 
+
 - `Step 1`: Before we get too far, let's do a quick check of the models that you can use in this situation given that you are working on a regression problem. Use the dictionary and corresponding letters below to provide all the possible models you might choose to use.
 
 - `Step 2`: Now for each of the models you found in the previous question that can be used for regression problems, import them using skle
@@ -29,6 +31,8 @@ First use the cell below to read in the dataset and set up the training and test
 - `Step 9`: Now one last time - complete the function related to mean absolute error. Then check your function against the sklearn metric to assure they match.
 
 - `Step 10`: Which model performed the best in terms of each of the metrics? Note that r2 and mse will always match, but the mae may give a different best model. Use the dictionary and space below to match the best model via each metric.
+
+
 
 
 
